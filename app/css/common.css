@@ -8,6 +8,7 @@
   margin: 0;
   background-color: var(--bg-color-dark);
   color: var(--text-color-dark);
+  overflow-x: hidden;
 }
 :root main {
   margin: 0;

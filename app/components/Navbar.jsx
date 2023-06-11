@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import Link from "next/link";
 import Image from "next/image";
 
 import "../css/navbar.css";
@@ -8,14 +9,24 @@ export default function Navbar() {
   return (
     <div id="navbar">
       <div className="hd-name">
-        <h1>Superhero Academy</h1>
+        <Link href="/">
+          <h1>Superhero Academy</h1>
+        </Link>
       </div>
       <div className="hd-links">
         <ul>
-          <li>Contact us</li>
-          <li>About</li>
-          <li>Superhero Coaching Academy</li>
-          <li>Super Blog</li>
+          <li>
+            <Link href="/Contact-us">Contact us</Link>
+          </li>
+          <li>
+            <Link href="/About">About</Link>
+          </li>
+          <li>
+            <Link href="/Coaching">Superhero Coaching Academy</Link>
+          </li>
+          <li>
+            <Link href="/Super-blog">Super Blog</Link>
+          </li>
         </ul>
       </div>
       <div className="hd-search">

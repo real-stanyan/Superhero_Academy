@@ -1,0 +1,47 @@
+#homepage #fearured {
+  display: flex;
+  justify-content: space-around;
+  width: 90vw;
+  margin: 8vw auto;
+}
+#homepage #fearured h1 {
+  width: 2vw;
+  height: 3vw;
+  line-height: 3vw;
+  transform: rotate(-90deg);
+  text-align: center;
+  font-size: 1vw;
+  margin: 0;
+  padding: 10px 0;
+  white-space: nowrap;
+}
+#homepage #latest-post {
+  display: flex;
+  flex-direction: column;
+  width: 90vw;
+  margin: 8vw auto;
+}
+#homepage #latest-post .main {
+  display: flex;
+  justify-content: center;
+}
+#homepage #latest-post .main h1 {
+  width: 2vw;
+  height: 3vw;
+  line-height: 3vw;
+  transform: rotate(-90deg);
+  text-align: center;
+  font-size: 1vw;
+  margin: 0;
+  padding: 10px 0;
+  white-space: nowrap;
+  margin-right: auto;
+  justify-self: flex-start !important;
+}
+#homepage #latest-post .sub {
+  margin-top: 2vw;
+  display: flex;
+  justify-content: center;
+  gap: 2vw;
+  flex-wrap: wrap;
+}

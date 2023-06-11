@@ -8,6 +8,11 @@
   background-color: var(--bg-color-dark);
   color: var(--text-color-dark);
   overflow: hidden;
+  z-index: 1;
+}
+#navbar a {
+  text-decoration: none;
+  color: var(--text-color-dark);
 }
 #navbar .hd-name {
   flex: 2;
@@ -102,7 +107,7 @@
     transform: scale(0.3);
   }
 }
-@media screen and (max-width: 1800px) {
+@media screen and (max-width: 1200px) {
   #navbar {
     overflow: visible;
   }

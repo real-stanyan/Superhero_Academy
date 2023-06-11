@@ -1,0 +1,19 @@
+.blogbox {
+  width: 15vw;
+  height: 20vw;
+  border: 2px solid var(--text-color-dark);
+  animation-name: blogbox-shadow;
+  animation-duration: 0.8s;
+  animation-timing-function: linear;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+}
+.blogbox:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease-in-out;
+}
+@keyframes blogbox-shadow {
+  100% {
+    box-shadow: 5px 5px 0px -2px var(--bg-color-dark), 5px 5px var(--text-color-dark);
+  }
+}
