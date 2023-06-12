@@ -1,11 +1,24 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import Image from "next/image";
 
 import "../css/navbar.css";
 
 export default function Navbar() {
+  const router = useRouter();
+  const [search, setSearch] = useState("");
+
+  const handleSearch = (e) => {
+    if (e.key !== "Enter") return;
+    const searchQuery = search;
+    setSearch("");
+    if (searchQuery === "-+@#$%^&*()_+=-[]{};':,./<>?`~") {
+      router.push("/Admin");
+    }
+  };
+
   return (
     <div id="navbar">
       <div className="hd-name">
@@ -30,7 +43,14 @@ export default function Navbar() {
         </ul>
       </div>
       <div className="hd-search">
-        <input type="text" placeholder="Enter Here" autoFocus />
+        <input
+          type="text"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          onKeyDown={(e) => handleSearch(e)}
+          placeholder="Enter Here"
+          autoFocus
+        />
         <Image
           src="/images/search_light_icon.png"
           alt="search_icon"
@@ -52,10 +72,18 @@ export default function Navbar() {
             <li>
               <input type="text" />
             </li>
-            <li>Contact us</li>
-            <li>About</li>
-            <li>Superhero Coaching Academy</li>
-            <li>Super Blog</li>
+            <li>
+              <Link href="/Contact-us">Contact us</Link>
+            </li>
+            <li>
+              <Link href="/About">About</Link>
+            </li>
+            <li>
+              <Link href="/Coaching">Superhero Coaching Academy</Link>
+            </li>
+            <li>
+              <Link href="/Super-blog">Super Blog</Link>
+            </li>
           </ul>
         </div>
       </div>

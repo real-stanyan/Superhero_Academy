@@ -60,8 +60,8 @@ export default function Home() {
 
   return (
     <main id="homepage">
-      <div id="fearured">
-        <h1>{featured}</h1>
+      <div id="featured">
+        <h1 className="featured-title">{featured}</h1>
         <Blogbox />
         <Blogbox />
         <Blogbox />
@@ -70,7 +70,7 @@ export default function Home() {
       </div>
       <div id="latest-post">
         <div className="main">
-          <h1>{latest}</h1>
+          <h1 className="latest-post-title">{latest}</h1>
           <MainBlogbox />
         </div>
         <div className="sub">

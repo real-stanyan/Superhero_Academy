@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Russo One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsH-yA.ttf) format('truetype');
+}
 #navbar {
   display: flex;
   position: fixed;
@@ -25,6 +39,7 @@
   text-align: center;
   white-space: nowrap;
   cursor: pointer;
+  font-family: "Russo One", sans-serif;
 }
 #navbar .hd-links {
   flex: 8;
@@ -44,6 +59,7 @@
   opacity: 0.6;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
+  font-family: "Roboto", sans-serif;
 }
 #navbar .hd-links ul li:hover {
   opacity: 1;

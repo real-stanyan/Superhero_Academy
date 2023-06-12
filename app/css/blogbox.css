@@ -17,3 +17,10 @@
     box-shadow: 5px 5px 0px -2px var(--bg-color-dark), 5px 5px var(--text-color-dark);
   }
 }
+@media screen and (max-width: 1200px) {
+  .blogbox {
+    width: 60vw;
+    height: 70vw;
+    margin-bottom: 5vw;
+  }
+}
