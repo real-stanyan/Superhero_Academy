@@ -10,7 +10,10 @@ export default function Admin() {
   const [login, setLogin] = useState(false);
 
   const handleLogin = () => {
-    if (username === "admin" && password === "admin") {
+    if (
+      username === "SuperheroAcademy" &&
+      password === "SuperheroesAreSuperCool"
+    ) {
       setLogin(true);
     } else {
       alert("Wrong username or password");
