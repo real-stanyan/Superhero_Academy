@@ -5,8 +5,9 @@ const BlogSchema = new Schema({
     type: String,
     required: [true, "Prompt is required."],
   },
+  img: { data: Buffer, contentType: String },
 });
 
-const Blog = models.Blog || model("Prompt", BlogSchema);
+const Blog = models.Blog || model("Blog", BlogSchema);
 
 export default Blog;
