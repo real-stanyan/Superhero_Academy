@@ -1,5 +1,5 @@
 import Blog from "@/models/blog";
-import { connectToDB } from "@utils/database";
+import { connectToDB } from "@/utils/database";
 import multer from "multer";
 
 const storage = multer.memoryStorage();
