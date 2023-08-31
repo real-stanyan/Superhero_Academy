@@ -221,7 +221,7 @@ export default function page() {
         </li>
         <li>Ask about any referral programs that the gym may have.</li>
       </ol>
-      <h2>Reviews &amp; Recommendations</h2>
+      <h2>Reviews Recommendations</h2>
       <p>
         Don't forget that even superheroes rely on word-of-mouth and reviews
         from trusted sources. Before finalizing your gym membership, take the

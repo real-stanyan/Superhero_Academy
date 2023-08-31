@@ -83,10 +83,10 @@ export default function page() {
         <strong>Pic of peppa/cocomelon</strong>
       </p>
       <p>
-        Peppa Pig is meant to be a &quot;kids&quot; show, yet Peppa Pig has a
-        big attitude problem. She calls her dad a silly dad and also calls him
-        fat. She's also bossy, rude to her friends and her parents do nothing to
-        discipline her.
+        Peppa Pig is meant to be a kids show, yet Peppa Pig has a big attitude
+        problem. She calls her dad a silly dad and also calls him fat. She's
+        also bossy, rude to her friends and her parents do nothing to discipline
+        her.
       </p>
       <p>
         Cocomelon has also had a bad rep. Many parents have said that the second
@@ -143,10 +143,8 @@ export default function page() {
         For reference, here's a one liner from an action/thriller anime I've
         watched as a kid growing up called, Naruto.
       </p>
-      <p>&quot;If you don't like your destiny, don't accept it.</p>
-      <p>
-        Instead, have the courage to change it the way you want it to be!&quot;
-      </p>
+      <p>If you don't like your destiny, don't accept it.</p>
+      <p>Instead, have the courage to change it the way you want it to be!</p>
       <ul>
         <li>Naruto Uzumaki</li>
       </ul>
