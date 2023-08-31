@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap");
+
 .blogbox {
   width: 15vw;
   height: 20vw;
@@ -7,15 +9,38 @@
   animation-timing-function: linear;
   animation-delay: 0.5s;
   animation-fill-mode: forwards;
+  font-family: "Merriweather", serif;
   &:hover {
     transform: translateY(-5px);
     transition: all 0.3s ease-in-out;
+  }
+  .blog-cover-img {
+    width: 100%;
+    height: 65%;
+    object-fit: cover;
+  }
+  .blog-title {
+    font-size: 0.9vw;
+    font-weight: 600;
+    margin: 0.5vw 0;
+    padding: 0 0.5vw;
+    text-align: center;
+    color: var(--text-color-dark);
+  }
+  .blog-publish-date {
+    font-size: 0.7vw;
+    font-weight: 300;
+    margin: 0.5vw 0;
+    padding: 0 0.5vw;
+    text-align: center;
+    color: var(--text-color-dark);
   }
 }
 
 @keyframes blogbox-shadow {
   100% {
-    box-shadow: 5px 5px 0px -2px var(--bg-color-dark),
+    box-shadow:
+      5px 5px 0px -2px var(--bg-color-dark),
       5px 5px var(--text-color-dark);
   }
 }
@@ -25,5 +50,14 @@
     width: 60vw;
     height: 70vw;
     margin-bottom: 5vw;
+    .blog-cover-img {
+      height: 70%;
+    }
+    .blog-title {
+      font-size: 3.5vw;
+    }
+    .blog-publish-date {
+      font-size: 2.5vw;
+    }
   }
 }
