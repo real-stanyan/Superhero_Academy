@@ -15,7 +15,7 @@ export default function page() {
           your fitness goals.
         </li>
         <li>
-          Pay attention to the staff&#39;s willingness to assist and answer
+          Pay attention to the staff's willingness to assist and answer
           questions.
         </li>
         <li>Consider the cleanliness and hygiene standards of the gym.</li>
@@ -26,7 +26,7 @@ export default function page() {
       <p>
         Even superheroes and their sidekicks need help finding good facilities
         to train in. Selecting the perfect gym membership can be an overwhelming
-        task, especially with so many options available. After all, it&#39;s not
+        task, especially with so many options available. After all, it's not
         like you can just jump into the Batmobile and find a gym on every
         corner.
       </p>
@@ -45,12 +45,12 @@ export default function page() {
       <ol>
         <li>Choose a gym that is close to your home or workplace.</li>
         <li>
-          Consider the gym&#39;s proximity to public transportation or parking
+          Consider the gym's proximity to public transportation or parking
           options.
         </li>
         <li>Make sure the gym is in a safe and convenient area.</li>
         <li>
-          Make sure it’s an easy and quick commute or you might find yourself
+          Make sure it's an easy and quick commute or you might find yourself
           making excuses to skip your workout.
         </li>
       </ol>
@@ -61,11 +61,11 @@ export default function page() {
       </p>
       <ol>
         <li>
-          Check the gym&#39;s hours of operation and make sure they fit your
+          Check the gym's hours of operation and make sure they fit your
           schedule.
         </li>
         <li>
-          Consider the gym&#39;s peak hours and if they align with your
+          Consider the gym's peak hours and if they align with your
           availability.
         </li>
         <li>
@@ -74,8 +74,7 @@ export default function page() {
         </li>
         <li>
           Make sure that the gym has enough space and equipment available during
-          peak hours, so you won&#39;t have to wait too long for a machine or
-          bench.
+          peak hours, so you won't have to wait too long for a machine or bench.
         </li>
       </ol>
       <h2>Cost and Membership Options</h2>
@@ -118,7 +117,7 @@ export default function page() {
       </p>
       <ol>
         <li>
-          Check the gym&#39;s equipment and facilities to ensure they meet your
+          Check the gym's equipment and facilities to ensure they meet your
           fitness needs
         </li>
         <li>
@@ -147,9 +146,9 @@ export default function page() {
         fitness goals.
       </p>
       <p>
-        Personal Training and Group Fitness Classes can be beneficial as
-        they&#39;ll help you learn proper form, stay motivated, keep you
-        accountable, and challenge yourself.
+        Personal Training and Group Fitness Classes can be beneficial as they'll
+        help you learn proper form, stay motivated, keep you accountable, and
+        challenge yourself.
       </p>
       <ol>
         <li>
@@ -166,14 +165,14 @@ export default function page() {
           may be out of your budget)
         </li>
         <li>
-          Don&#39;t be afraid to ask for a trial session or demonstration class
+          Don't be afraid to ask for a trial session or demonstration class
           before committing to a gym membership.
         </li>
       </ol>
       <h2>Staff and Customer Service</h2>
       <p>
         Remember, even superheroes need support from their team. When selecting
-        a gym membership, it&#39;s important to consider the staff and customer
+        a gym membership, it's important to consider the staff and customer
         service provided by the gym. 1. Take note of how friendly and
         knowledgeable the staff is when you visit the gym.
       </p>
@@ -199,8 +198,8 @@ export default function page() {
       </p>
       <ol>
         <li>
-          Check the cleanliness of the gym&#39;s equipment, floors, locker
-          rooms, and bathrooms.
+          Check the cleanliness of the gym's equipment, floors, locker rooms,
+          and bathrooms.
         </li>
         <li>
           Look for a gym that has proper hygiene practices in place, such as
@@ -210,10 +209,10 @@ export default function page() {
       </ol>
       <h2>Trial Memberships and Referral Programs</h2>
       <p>
-        When it comes to selecting the perfect gym membership, you don&#39;t
-        want to rush into a commitment like The Flash racing against Superman.
-        It&#39;s important to take advantage of trial memberships and referral
-        programs offered by gyms.
+        When it comes to selecting the perfect gym membership, you don't want to
+        rush into a commitment like The Flash racing against Superman. It's
+        important to take advantage of trial memberships and referral programs
+        offered by gyms.
       </p>
       <ol>
         <li>
@@ -224,7 +223,7 @@ export default function page() {
       </ol>
       <h2>Reviews &amp; Recommendations</h2>
       <p>
-        Don&#39;t forget that even superheroes rely on word-of-mouth and reviews
+        Don't forget that even superheroes rely on word-of-mouth and reviews
         from trusted sources. Before finalizing your gym membership, take the
         time to read reviews and gather recommendations from friends, family, or
         fellow fitness enthusiasts. Their experiences can provide valuable
@@ -239,7 +238,7 @@ export default function page() {
       </p>
       <p>
         Remember, in the world of fitness, even superheroes need support from
-        their team. So, don&#39;t hesitate to ask for help from the gym staff or
+        their team. So, don't hesitate to ask for help from the gym staff or
         seek guidance from friends and family when making your decision.
       </p>
     </div>

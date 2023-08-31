@@ -26,7 +26,7 @@ export default function page() {
         endurance in your own fitness routine.
       </p>
       <p>
-        Sounds incredible, doesn&#39;t it? Well, guess what? You can achieve
+        Sounds incredible, doesn't it? Well, guess what? You can achieve
         superhero-level fitness by incorporating some of their training
         techniques into your own workout routine!
       </p>
@@ -34,14 +34,14 @@ export default function page() {
         Unleash Your Inner Hero: Embracing the Mindset of a Superhero
       </h2>
       <p>
-        Before we dive into the actual workout routines, it&#39;s important to
+        Before we dive into the actual workout routines, it's important to
         embrace the mindset of a superhero. Channelling the mindset of a
         superhero means believing in your own abilities and pushing yourself
         beyond your limits.
       </p>
       <p>
-        Let&#39;s look at Batman for example. Look at how far Batman has come
-        from all of the years of his hard work!
+        Let's look at Batman for example. Look at how far Batman has come from
+        all of the years of his hard work!
       </p>
       <p>
         Batman started training at the age of 14. He left Gotham City and
@@ -53,20 +53,19 @@ export default function page() {
         weight training or some sort of cardio.
       </p>
       <p>
-        You don&#39;t necessarily have to train as hard and consistently as
-        Batman does, but as long as you&#39;re training at least 3 days a week,
-        and you&#39;re consistent you can become the superhero you&#39;d like to
-        be over time.
+        You don't necessarily have to train as hard and consistently as Batman
+        does, but as long as you're training at least 3 days a week, and you're
+        consistent you can become the superhero you'd like to be over time.
       </p>
       <p>
-        ps. the more you train, the quicker you&#39;ll get there, but keep in
-        mind, superheroes need rest too.
+        ps. the more you train, the quicker you'll get there, but keep in mind,
+        superheroes need rest too.
       </p>
       <h2 id="assemble-your-superhero-training-routine">
         Assemble your Superhero Training Routine
       </h2>
       <p>
-        Now that you have the right mindset, it&#39;s time to assemble your
+        Now that you have the right mindset, it's time to assemble your
         superhero training routine. Start by identifying your fitness goals.
       </p>
       <p>
@@ -111,13 +110,13 @@ export default function page() {
       </ol>
       <h2 id="train-like-a-true-avenger">Train Like a True Avenger</h2>
       <p>
-        Ever wondered how the Avengers stay in such amazing shape? Well,
-        we&#39;ve got some insider information for you.
+        Ever wondered how the Avengers stay in such amazing shape? Well, we've
+        got some insider information for you.
       </p>
       <p>
-        Captain America, one of the Avengers&#39; finest, focuses on a
-        combination of strength training and cardiovascular exercises to stay in
-        peak physical condition. Strength training is crucial for building and
+        Captain America, one of the Avengers' finest, focuses on a combination
+        of strength training and cardiovascular exercises to stay in peak
+        physical condition. Strength training is crucial for building and
         maintaining muscle mass, while cardiovascular exercises help improve
         stamina and endurance.
       </p>
@@ -130,10 +129,10 @@ export default function page() {
         Building Superhero Strength: 5 Workout Routines to Get You Started
       </h2>
       <p>
-        Now that you&#39;ve embraced the mindset of a superhero, it&#39;s time
-        to dive into some workout routines that will help you level up your
-        fitness and unleash your inner hero. Here are a few superhero-inspired
-        workout routines to get you started:
+        Now that you've embraced the mindset of a superhero, it's time to dive
+        into some workout routines that will help you level up your fitness and
+        unleash your inner hero. Here are a few superhero-inspired workout
+        routines to get you started:
       </p>
       <ol>
         <li>
@@ -184,20 +183,19 @@ export default function page() {
         </li>
       </ol>
       <p>
-        As you can see, all superheroes train in a way that&#39;s best for them.
-        The Hulk trains for strength, Wonderwoman trains for strength and
-        agility, Captain Marvel for strength and agility, Spiderman for agility
-        and so on.
+        As you can see, all superheroes train in a way that's best for them. The
+        Hulk trains for strength, Wonderwoman trains for strength and agility,
+        Captain Marvel for strength and agility, Spiderman for agility and so
+        on.
       </p>
       <p>
         What all superheroes have in common is that their training is functional
         and specific to their needs. -This helps them defeat the bad guys.
       </p>
       <p>
-        But you don&#39;t have to worry about fighting bad guys in real life
-        (unless you&#39;re a crime fighter on the side, of course). Instead,
-        focus on finding a training routine that suits your goals and
-        preferences.
+        But you don't have to worry about fighting bad guys in real life (unless
+        you're a crime fighter on the side, of course). Instead, focus on
+        finding a training routine that suits your goals and preferences.
       </p>
     </div>
   );

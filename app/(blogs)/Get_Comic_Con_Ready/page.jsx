@@ -19,7 +19,7 @@ export default function page() {
           with your nutrition goals while at Comic Con.
         </li>
         <li>
-          Getting a good night&#39;s sleep is crucial for superhero-level
+          Getting a good night's sleep is crucial for superhero-level
           performance at Comic Con.
         </li>
         <li>
@@ -38,10 +38,10 @@ export default function page() {
       <h2 id="intro">Intro</h2>
       <p>
         Are you gearing up for Comic Con and want to make sure your nutrition is
-        on point? It&#39;s easy to fall into the trap of grabbing fast food or
-        sugary snacks when you&#39;re caught up in the excitement of cosplay and
-        comic book panels. But fear not, fellow superhero! We&#39;ve got your
-        back with some beginner-level nutrition tips that will help you stay
+        on point? It's easy to fall into the trap of grabbing fast food or
+        sugary snacks when you're caught up in the excitement of cosplay and
+        comic book panels. But fear not, fellow superhero! We've got your back
+        with some beginner-level nutrition tips that will help you stay
         energized and healthy throughout Comic Con.
       </p>
       <h2 id="understanding-the-comic-con-journey">
@@ -49,8 +49,8 @@ export default function page() {
       </h2>
       <p>
         Comic Con is a whirlwind of excitement, with long lines, crowded halls,
-        and non-stop activities. It&#39;s important to fuel your body properly
-        to keep up with the demands of the convention.
+        and non-stop activities. It's important to fuel your body properly to
+        keep up with the demands of the convention.
       </p>
       <p>
         By understanding the motivations behind attending Comic Con, we can
@@ -61,8 +61,8 @@ export default function page() {
         Fans attend Comic Con for a variety of reasons - to meet their favourite
         celebrities, discover new comics and merchandise, participate in cosplay
         contests, and immerse themselves in the thrilling world of pop culture.
-        At Comic Con, you&#39;re not just a fan - you&#39;re a superhero in your
-        own right!
+        At Comic Con, you're not just a fan - you're a superhero in your own
+        right!
       </p>
       <h2 id="the-power-of-superhero-nutrition">
         The Power of Superhero Nutrition
@@ -78,7 +78,7 @@ export default function page() {
         stamina to rock those long days at the convention.
       </p>
       <p>
-        And hey, eating like a superhero doesn&#39;t mean you have to sacrifice
+        And hey, eating like a superhero doesn't mean you have to sacrifice
         taste!
       </p>
       <h2 id="building-your-superhero-plate">Building Your Superhero Plate</h2>
@@ -97,8 +97,8 @@ export default function page() {
           vegetables, like spinach, berries, bell peppers, and carrots.
         </li>
         <li>
-          Don&#39;t forget to include whole grains like quinoa, brown rice, or
-          whole wheat bread for sustained energy throughout the day
+          Don't forget to include whole grains like quinoa, brown rice, or whole
+          wheat bread for sustained energy throughout the day
         </li>
         <li>
           Boost your superhero fuel with healthy fats such as avocados, nuts,
@@ -128,18 +128,18 @@ export default function page() {
         </li>
       </ol>
       <p>
-        Remember, it&#39;s all about finding a balance and enjoying the process.
+        Remember, it's all about finding a balance and enjoying the process.
       </p>
       <h2 id="sleep-like-a-hero">Sleep Like a Hero</h2>
       <p>
-        Getting a good night&#39;s sleep is crucial for superhero-level
-        performance at Comic Con. Sleep allows your body to rest and recharge,
-        so make sure to prioritize it.
+        Getting a good night's sleep is crucial for superhero-level performance
+        at Comic Con. Sleep allows your body to rest and recharge, so make sure
+        to prioritize it.
       </p>
       <p>
         Create a relaxing bedtime routine, limit screen time to roughly 30 mins
         before bed, and aim for 7-9 hours of quality sleep each night. Being a
-        superhero-in-training isn&#39;t easy, but with the right nutrition and
+        superhero-in-training isn't easy, but with the right nutrition and
         self-care, you can conquer Comic Con and be ready for whatever
         challenges come your way.
       </p>
@@ -165,13 +165,13 @@ export default function page() {
         </li>
         <li>
           Stay Active: Comic Con can be physically demanding, especially if
-          you&#39;re cosplaying, so stay active beforehand to ensure you&#39;ve
-          got the stamina to slay the day like a superhero.
+          you're cosplaying, so stay active beforehand to ensure you've got the
+          stamina to slay the day like a superhero.
         </li>
         <li>
           <p>
-            Hydrate Like a Hero: Don&#39;t forget to drink water throughout the
-            day to stay hydrated and keep your energy levels up.
+            Hydrate Like a Hero: Don't forget to drink water throughout the day
+            to stay hydrated and keep your energy levels up.
           </p>
         </li>
         <li>
@@ -184,14 +184,14 @@ export default function page() {
       </ol>
       <h2 id="conclusion">Conclusion</h2>
       <p>
-        In conclusion, whether you&#39;re attending Comic Con or simply
-        embracing your inner superhero, practising good nutrition and self-care
-        beforehand is essential for a successful and enjoyable experience.
+        In conclusion, whether you're attending Comic Con or simply embracing
+        your inner superhero, practising good nutrition and self-care beforehand
+        is essential for a successful and enjoyable experience.
       </p>
       <p>
         Follow these superhero-themed nutrition tips, pack your cape and mask,
-        and get ready to conquer Comic Con like a true hero! Remember, it&#39;s
-        all about finding a balance and enjoying the process.
+        and get ready to conquer Comic Con like a true hero! Remember, it's all
+        about finding a balance and enjoying the process.
       </p>
     </div>
   );

@@ -28,13 +28,13 @@ export default function page() {
         become the protagonist of what would feel like your very own isekai.
       </p>
       <p>
-        Anime Expo won&#39;t know what hit &#39;em when you strut in with a
-        physique that&#39;s as powerful as Goku&#39;s punches and as graceful as
-        Sailor Moon&#39;s moves.
+        Anime Expo won't know what hit 'em when you strut in with a physique
+        that's as powerful as Goku's punches and as graceful as Sailor Moon's
+        moves.
       </p>
       <p>
-        Let&#39;s dive in and discover the fitness tips that will help you
-        become the cosplay champion you&#39;ve always dreamed of being!
+        Let's dive in and discover the fitness tips that will help you become
+        the cosplay champion you've always dreamed of being!
       </p>
       <p>
         There are a variety of exercises and workouts that will help you improve
@@ -514,7 +514,7 @@ export default function page() {
         <li>
           Walking or Jogging: Walking or jogging is a simple yet effective form
           of cardiovascular exercise that can be easily incorporated into a
-          beginner&#39;s fitness routine.
+          beginner's fitness routine.
         </li>
         <li>
           Strength Training with Bodyweight Exercises: Bodyweight exercises such
