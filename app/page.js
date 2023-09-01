@@ -66,7 +66,7 @@ export default function Home() {
           title={
             "Avoiding Common Mistakes: Tips for Selecting the Perfect Gym Membership"
           }
-          coverImg={"/images/Avoiding_Common_Mistakes_cover.jpg"}
+          coverImg={"/images/Avoiding_Common_Mistakes_cover.png"}
           publishDate={"June 15, 2023"}
           routerUrl={"Avoiding_Common_Mistakes"}
         />
