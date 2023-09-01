@@ -1,4 +1,12 @@
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRpXw.ttf) format('truetype');
+}
 .main-blogbox {
+  display: flex;
   width: 80vw;
   height: 30vw;
   border: 2px solid var(--text-color-dark);
@@ -8,10 +16,24 @@
   animation-delay: 0.5s;
   animation-fill-mode: forwards;
   justify-content: center;
+  font-family: "Merriweather", serif;
 }
 .main-blogbox:hover {
   transform: translateY(-5px);
   transition: all 0.3s ease-in-out;
+}
+.main-blogbox .main-blog-cover-img {
+  width: 70%;
+  height: 100%;
+  object-fit: cover;
+}
+.main-blogbox .main-blog-des {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 2vw;
+  font-size: 1.5vw;
 }
 @keyframes blogbox-shadow {
   100% {
@@ -23,5 +45,9 @@
     width: 90vw;
     height: 50vw;
     margin-bottom: 5vw;
+  }
+  .main-blogbox .main-blog-des {
+    margin: 5vw;
+    font-size: 2vw;
   }
 }
