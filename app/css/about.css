@@ -1,3 +1,44 @@
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRpXw.ttf) format('truetype');
+}
 #about {
+  height: 90vh;
   margin-top: 8vh;
+  padding: 1vw;
+  display: flex;
+  align-items: center;
+  font-family: "Merriweather", serif;
+}
+#about .mid-line {
+  width: 0.1vw;
+  height: 100%;
+  margin: 0 2vw;
+  background-color: var(--text-color-dark);
+  opacity: 0.5;
+}
+#about .about-me-content {
+  flex: 1;
+  font-size: 1.5vw;
+  padding: 0 2rem;
+}
+@media screen and (max-width: 1200px) {
+  #about {
+    height: 100vh;
+    margin-top: 0;
+    padding: 0;
+    flex-direction: column;
+  }
+  #about .mid-line {
+    width: 100%;
+    height: 0.1vw;
+    margin: 2vw 0;
+  }
+  #about .about-me-content {
+    font-size: 4vw;
+    padding: 0 2rem;
+  }
 }
